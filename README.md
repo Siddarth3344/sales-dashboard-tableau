@@ -44,6 +44,25 @@ This dashboard can be used by:
 
 ---
 
+
+## 📊 Data Sources
+
+All datasets are available in the `data/` folder:
+- `Customers.csv`
+- `Location.csv`
+- `Orders.csv`
+- `Products.csv`
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.twbx` file.
+2. Open in Tableau Desktop or Tableau Public.
+3. Explore or modify the dashboard based on your data needs.
+
+---
+
 ## 🧑‍💻 Author
 
 **Siddarth Vemula**  
