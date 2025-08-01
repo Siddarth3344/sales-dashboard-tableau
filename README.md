@@ -17,3 +17,42 @@ This project is an interactive **Sales Dashboard** built using **Tableau Public*
 ---
 
 ## 🧰 Tools & Technologies
+- **Tableau Public** – Data visualization and dashboard building
+- **Excel** – Used as the primary data source
+
+---
+
+## 🖼️ Screenshots
+
+![Dashboard Preview] <img width="1440" height="900" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/bed95446-d130-4095-adec-4f4574064150" />
+
+
+
+
+
+---
+
+## 📁 Repository Structure
+---
+
+## 📈 Use Case
+
+This dashboard can be used by:
+- Sales teams for performance tracking
+- Business analysts to derive insights
+- Executives for high-level KPI monitoring
+
+---
+
+## 🧑‍💻 Author
+
+**Siddarth Vemula**  
+B.Tech in ECE | Data Analytics Enthusiast | 2025 Graduate  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/siddarth-vemula)
+
+---
+
+## 📄 License
+This project is for educational and portfolio purposes. If you wish to use it commercially or modify extensively, feel free to fork and give credit.
+
+---
