@@ -67,7 +67,7 @@ All datasets are available in the `data/` folder:
 
 **Siddarth Vemula**  
 B.Tech in ECE | Data Analytics Enthusiast | 2025 Graduate  
-📫 [LinkedIn Profile](https://www.linkedin.com/in/siddarth-vemula)
+📫 [LinkedIn Profile](www.linkedin.com/in/vemulasiddarthreddy)
 
 ---
 
